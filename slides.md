@@ -41,8 +41,6 @@ Assert some properties:
 * All arrows compose associatively
 * Every object has an identity arrow
 
-Commutative diagram: $$ hom \circ alg \equiv alg' \circ fmap\;hom $$
-
 
 [column=0.5]
 
